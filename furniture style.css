@@ -1,0 +1,89 @@
+ body {
+     margin: 0%;
+     padding: 0px;
+ }
+ 
+ * {
+     margin: 0px;
+     padding: opx;
+ }
+ 
+ .main {
+     background-color: aqua;
+     width: 100%;
+ }
+ 
+ .icon {
+     padding: 1vh;
+ }
+ 
+ .menu {
+     text-decoration: none;
+     float: right;
+     font-size: 6px;
+     display: flex;
+     cursor: pointer;
+ }
+ 
+ .hr {
+     height: 2px;
+     color: black;
+ }
+ 
+ .front img {
+     margin-left: 10px;
+     height: 48vh;
+     width: 97vw;
+ }
+ 
+ ul li {
+     display: flex;
+     float: left;
+     padding: 19px;
+     text-align: center;
+     background-color: white;
+     border-radius: 30px;
+     font-weight: bold;
+ }
+ 
+ .img {
+     text-align: center;
+     width: 80%;
+ }
+ 
+ .sproduct {
+     width: 22em;
+     height: 27vh;
+     margin-top: 20px;
+     margin-left: 10px;
+     image-resolution: row;
+     scroll-margin-bottom: scroll;
+ }
+ 
+ .name {
+     width: 99vw;
+     text-align: center;
+     font-size: 24px;
+     font-weight: bold;
+     margin-left: 3px;
+     margin-top: 10px;
+     font-style: italic;
+     background-color: antiquewhite;
+ }
+ 
+ .dis {
+     margin-left: 10px;
+     font-weight: bold;
+     font-size: 14px;
+ }
+ 
+ .logos {
+     float: right;
+     margin-right: 19px;
+     margin-bottom: 10px;
+ }
+ 
+ .foot {
+     background-color: aqua;
+     height: 10vh;
+ }
